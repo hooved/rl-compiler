@@ -1,3 +1,0 @@
-[submodule "tinygrad"]
-	path = extra/tinygrad
-	url = https://github.com/hooved/tinygrad.git
